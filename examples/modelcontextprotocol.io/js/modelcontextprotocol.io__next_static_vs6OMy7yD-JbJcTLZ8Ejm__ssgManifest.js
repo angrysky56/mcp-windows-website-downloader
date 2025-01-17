@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[[...slug]]","\u002F_mintlify\u002Fauth-metadata\u002F[subdomain]\u002F[[...slug]]","\u002F_sites\u002F[subdomain]\u002F[[...slug]]","\u002F_sites\u002F[subdomain]\u002F_hidden-login-pages\u002Flogin"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

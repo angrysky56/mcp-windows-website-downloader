@@ -18,7 +18,7 @@ Clone repository, cd into it, and install dependencies:
 
 ```python
 uv venv
-.venv\Scripts\activate
+.venv/Scripts/activate
 uv pip install -e .
 ```
 
@@ -31,11 +31,11 @@ Downloads default to downloads folder in the MCP root. My working Claude app JSO
 ```json
 {
     "mcpServers": {
-        "windows-website-downloader": {
+        "mcp-windows-website-downloader": {
             "command": "uv",
             "args": [
                 "--directory", 
-                "F:/GithubRepos/windows-website-downloader",
+                "F:/GithubRepos/mcp-windows-website-downloader",
                 "run",
                 "mcp-windows-website-downloader"
             ]

@@ -4,6 +4,8 @@ A Windows-compatible website downloader tool for the Model Context Protocol (MCP
 
 ![alt text](image-1.png)
 
+<a href="https://glama.ai/mcp/servers/5jmjuexe0d"><img width="380" height="200" src="https://glama.ai/mcp/servers/5jmjuexe0d/badge" alt="Windows Website Downloader Server MCP server" /></a>
+
 ## Features
 
 - Asynchronous downloading

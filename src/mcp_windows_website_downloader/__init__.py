@@ -1,9 +1,15 @@
 """
 MCP Windows Website Downloader
-A Model Context Protocol server for downloading websites with Windows path support.
+A simple MCP server for downloading website documentation.
 """
+import logging
 
-from .server import WebsiteDownloader, main
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler()
+    ]
+)
 
 __version__ = "0.1.0"
-__all__ = ['WebsiteDownloader', 'main']

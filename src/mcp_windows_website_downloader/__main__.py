@@ -1,5 +1,7 @@
-"""Main entry point for the MCP Windows Website Downloader."""
+"""
+Main entry point for MCP Windows Website Downloader server
+"""
 from .server import main
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

@@ -1,0 +1,11 @@
+"mcp-windows-website-downloader": {
+    "command": "uv",
+    "args": [
+      "--directory",
+      "F:/GithubRepos/mcp-windows-website-downloader",
+      "run",
+      "mcp-windows-website-downloader",
+      "--library",
+      "F:/GithubRepos/mcp-windows-website-downloader/website_library"
+    ]
+  },

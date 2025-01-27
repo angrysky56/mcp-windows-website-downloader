@@ -16,6 +16,7 @@ build/
 
 # Downloaded websites and their assets (project-specific)
 downloads/
+website_library/
 
 # Test cache
 .pytest_cache/

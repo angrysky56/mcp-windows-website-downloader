@@ -35,6 +35,8 @@ Put this in your claude_desktop_config.json with your own paths:
    },
 ```
 
+![alt text]({52E8102D-678C-44FE-9B0E-491483808EB6}.png)
+
 ## Other Usage you don't need to worry about and may be hallucinatory lol:
 
 1. Start the server:

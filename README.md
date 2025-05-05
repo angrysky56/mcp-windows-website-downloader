@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/angrysky56-mcp-windows-website-downloader-badge.png)](https://mseep.ai/app/angrysky56-mcp-windows-website-downloader)
+
 # MCP Website Downloader
 
 Simple MCP server for downloading documentation websites and preparing them for RAG indexing.
